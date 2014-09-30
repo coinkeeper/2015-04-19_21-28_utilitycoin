@@ -39,4 +39,4 @@ rpc port: 39122
 
 POS min stake age 12h, max 30 days.
 
-
+POD-CryptoAsian
